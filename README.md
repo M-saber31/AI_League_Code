@@ -90,6 +90,8 @@ This section details all data collected or generated during the project.
 - **Validation Methods:** Demos, screenshots, videos, and simulations.
 - **Setup:** Server-client architecture for real-time processing.
 
+
+![Screenshot of Demo](images/demo.png)
 ---
 
 ## Challenges and Future Work
