@@ -47,6 +47,15 @@ RTPIA processes live video feeds to detect players and the ball, maps these to m
 **Process:**  
 Live video → YOLO detects players/ball → Maps to event data → GNN predicts ΔxT per player.
 
+![Screenshot of Demo](images/workflow.png)
+
+The RTPIA system works by:
+
+1. Using YOLOv8 to detect players and the ball from live video.
+2. Converting the field into a graph where players are nodes and events are edges.
+3. Processing the graph with a GNN to predict xT, capturing both individual and collective contributions.
+4. Delivering real-time xT insights to coaches for mid-game tactical decisions.
+
 ---
 
 ## Data Used
