@@ -86,6 +86,10 @@ This section details all data collected or generated during the project.
 
 ---
 
+Watch the demo video for the yolo implementation: [RTPIA Demo](https://drive.google.com/file/d/13ji9yTMq4pa77tCjHZ9ifZaiewJjfJ71/view?resourcekey)
+
+---
+
 ## Demo and Testing
 - **Validation Methods:** Demos, screenshots, videos, and simulations.
 - **Setup:** Server-client architecture for real-time processing.
